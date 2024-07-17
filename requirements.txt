@@ -8,4 +8,5 @@ dnspython==2.1.0
 Flask-Caching
 Flask-Session
 Flask-SQLAlchemy
+Flask-Limiter
 
