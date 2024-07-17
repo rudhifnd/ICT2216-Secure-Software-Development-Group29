@@ -1,11 +1,11 @@
-Flask==3.0.3
+Flask==2.0.1
 matplotlib==3.4.2
 werkzeug==2.0.1
 itsdangerous==2.0.1
 argon2-cffi==21.1.0
 pytest==7.3.1
 dnspython==2.1.0
-Flask-Caching==2.3.0
-Flask-Session==0.8.0
-Flask-SQLAlchemy==3.1.1
+Flask-Caching
+Flask-Session
+Flask-SQLAlchemy
 
